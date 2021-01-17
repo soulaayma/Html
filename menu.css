@@ -1,0 +1,41 @@
+table,td{
+    border: 1px solid #333;
+}
+thead,tfoot{
+    background-color: #333;
+    color: #fff;
+}
+body
+{
+background-color: #F19E18 ;
+}
+h1 {
+    position: relative;
+    left: 500px;
+    color: #989898;
+    font-size: 60px;
+  }
+h2 {
+    position: relative;
+    left: 500px;
+    color: #989898;
+    font-family: Arial;
+}
+ul{
+    color: #070706;
+    position: relative;
+    left: 500px;
+    font-family: Impact;
+}
+.im{
+    position: relative;
+    left: 500px;
+    border-radius: 50%;
+}
+a{
+    position: relative;
+    left: 500px;
+    font-size: 20px;
+    font-family: fantasy;
+    color:#070706 ;
+}

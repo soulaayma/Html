@@ -1,0 +1,43 @@
+
+
+h1 {
+  position: relative;
+  left: 500px;
+  color: #989898;
+}
+
+.o{
+  
+  margin: 20px auto ;
+  border-style: solid;
+  width: 600px;
+  border-color: #070706;
+  height: 200px;
+  left: 600px;
+  
+}
+p{
+  font-family: Georgia;
+  color: #E0DAAE;
+
+}
+
+img{
+
+  width: 1000px;
+  height: 200px;
+  position: relative;
+  left: 150px;
+}
+
+body
+{
+background-color: #F19E18 ;
+}
+
+a{
+  position: relative;
+  left: 550px;
+  color: #070706;
+  font-size: 50px;
+}
